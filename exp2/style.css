@@ -1,0 +1,40 @@
+body {
+        font-family: Arial, sans-serif;
+            background-color: #e9ecef;
+                padding: 20px;
+                }
+                .container {
+                    background-color: white;
+                        padding: 20px;
+                            border-radius: 8px;
+                                max-width: 600px;
+                                    margin: auto;
+                                    }
+                                    .botoes {
+                                        display: flex;
+                                            gap: 10px;
+                                                margin-bottom: 20px;
+                                                    flex-wrap: wrap;
+                                                    }
+                                                    button {
+                                                        padding: 10px 15px;
+                                                            background-color: #007bff;
+                                                                color: white;
+                                                                    border: none;
+                                                                        border-radius: 4px;
+                                                                            cursor: pointer;
+                                                                            }
+                                                                            button:hover {
+                                                                                background-color: #0056b3;
+                                                                                }
+                                                                                #resultado {
+                                                                                    background: #f8f9fa;
+                                                                                        padding: 15px;
+                                                                                            border: 1px solid #dee2e6;
+                                                                                                border-radius: 4px;
+                                                                                                }
+                                                                                                .aluno-card {
+                                                                                                    border-bottom: 1px solid #ccc;
+                                                                                                        padding: 10px 0;
+                                                                                                        }
+

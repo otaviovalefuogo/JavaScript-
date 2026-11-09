@@ -1,0 +1,39 @@
+body {
+        font-family: Arial, sans-serif;
+            background-color: #fafafa;
+                padding: 20px;
+                }
+                .container {
+                    background-color: white;
+                        padding: 20px;
+                            border-radius: 8px;
+                                max-width: 700px;
+                                    margin: auto;
+                                        border: 1px solid #ddd;
+                                        }
+                                        .painel {
+                                            margin-bottom: 20px;
+                                                display: flex;
+                                                    gap: 10px;
+                                                    }
+                                                    input {
+                                                        padding: 8px;
+                                                            flex: 1;
+                                                            }
+                                                            button {
+                                                                padding: 8px 12px;
+                                                                    background-color: #17a2b8;
+                                                                        color: white;
+                                                                            border: none;
+                                                                                cursor: pointer;
+                                                                                }
+                                                                                button:hover {
+                                                                                    background-color: #138496;
+                                                                                    }
+                                                                                    .produto {
+                                                                                        background: #f4f4f4;
+                                                                                            padding: 10px;
+                                                                                                margin-bottom: 10px;
+                                                                                                    border-left: 4px solid #17a2b8;
+                                                                                                    }
+
